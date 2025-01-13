@@ -2,7 +2,7 @@
 
 1.Create a Network 3 account. I will appreciate it if you create one using my referral link below.
 
-  https://account.network3.ai/register_page?rc=081b3da7
+  https://account.network3.ai/register_page?rc=b40f307c
 
 2. Connect to your VPS server and update the Ubuntu Operating system
 
@@ -20,10 +20,10 @@ sudo apt install -y screen net-tools
 
 Next, download the Network 3 node software using the appropriate link. The download link may vary depending on the latest version available. Follow these steps to get the correct link:
 
-    1.Visit the Network 3 download portal.
-    2.Locate the “Linux Download” button.
-    3.Right-click the “Linux Download” button and select “Copy Link Address.”
-    4.Replace the URL in the wget command below with the one you copied.
+  1.Visit the Network 3 download portal.
+  2.Locate the “Linux Download” button.
+  3.Right-click the “Linux Download” button and select “Copy Link Address.”
+  4.Replace the URL in the wget command below with the one you copied.
 
 Example link for downloading version 2.1.0:
 ~~~~
